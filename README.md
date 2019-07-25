@@ -1,0 +1,114 @@
+
+<img src="https://github.com/carmensg/IAA-Workhop2019/blob/master/images/IAA-CSIC_School.png" width="800" align="right">
+
+
+# Instituto de Astrofísica de Andalucía (CSIC) #
+## 1st School on [Statistics, Data Mining and Machine Learning](https://www.granadacongresos.com/sostat) ##
+## November 4th-7th, 2019 - Granada, Spain ##
+
+
+It is an introductory school oriented at students and researchers of all levels. It is the first of its kind and will be followed by a School on Advanced Data Mining, Machine Learning and Artificial Intelligence in Fall 2020. The cycle of introductory and advanced schools will repeat in 2021 and 2022.
+ 
+The school will have a strong hands-on aspect and the participants will repeat and apply the learned lessons in practical exercises. It is therefore indispensable that each participant bring their own laptop with the required software pre-installed.
+
+This repository holds the tutorials and scripts used to illustrate the theoretical concepts during the School. 
+
+### Tutors ###
+
+* Matteo Bacchetti (INAF, Osservatorio Astronomico di Cagliari, Italy)
+* Gwendolyn Eadie (University of Toronto, Canada)
+* Carmen Sánchez Gil (Universidad de Cádiz, Spain)
+* Željko Ivezić (University of Washington, USA)
+* Javier Pascual Granado (IAA-CSIC, Spain)
+
+The tutorial is composed of theoretical and practical modules. 
+
+The examples will be demonstrated in R and Python but _familiarity with the language is not a requirement_.
+
+### SOFTWARE & INSTALLATION INSTRUCTIONS ###
+
+The workshop and hands-on sessions will be based on **R** and **python**. 
+In order to optimize the time spent in the examples and practical applications, we advise the participants to get the following software up and running in advance.
+
+* [R](https://www.r-project.org)
+* [Rstudio](https://www.rstudio.com)
+* [python](https://www.python.org), with the following packages: [numpy,scipy, scikit-learn](https://scipy.org/install.html), [matplotlib](https://matplotlib.org/3.1.1/users/installing.html)
+* [ipython notebook](https://ipython.org/notebook.html)
+* [Jupyter Notebook](https://jupyter.org)
+
+We strongly recommend the all-in-one scientific Python/R installer [Anaconda](https://www.anaconda.com/distribution/). All the previous software and packages can be directly and efficiently installed through this platform.
+It will be also useful the use of [Anaconda Navigator](http://docs.anaconda.com/anaconda/navigator/). 
+
+More details on installation: [here](https://github.com/carmensg/IAA-Workhop2019/blob/master/SOFTWARE_INSTALLATION)
+
+
+**Getting the scripts**
+
+In order to avoid problems with file paths it is advisable to clone this repository and work within it.  
+
+To do so choose go to the command line and navigate to a location where you would like to work. Then type:
+
+    git clone https://github.com/carmensg/IAA-Workhop2019.git
+
+
+This should be enough to get you ready for the examples we will be working on. 
+
+If you do not have git installed you can get it typing:
+
+    sudo apt-get install git
+
+
+**Staying up to date**
+
+This is a work in progress and it will be continuously updated so erros can be fixed and complementary material can be added. 
+
+It is advisable to make sure you have the latest version before start working in you local directory. To do so, in the command line navigate to your copy of this repository and type:
+
+    git pull 
+
+Then you are certain to get all the bug fixes and improvements available.
+
+Have fun!
+
+### WORKSHOP MATERIAL ###
+
+### Day 1  - Classical and Bayesian statistical inference (Gwen Eadie) ###
+
+
+The slides used in this tutorial are available [here](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures).
+
+[Tutorial Examples](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures)
+
+
+
+### Day 2 - Data modeling and parameter estimation (Carmen Sánchez Gil) ###
+
+
+The slides used in this tutorial are available [here](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures).
+
+[Tutorial Examples](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures)
+
+
+
+### Day 3 - Introduction to data mining: Searching for structure in data (Željko Ivezić) ###
+
+
+The slides used in this tutorial are available [here](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures).
+
+[Tutorial Examples](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures)
+
+### Day 4 - Time series analysis (Matteo Bacchetti, Javier Pascual Granado) ###
+
+The slides used in this tutorial are available [here](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures).
+
+[Tutorial Examples](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures)
+
+
+
+### References ###
+
+
+
+
+
+
