@@ -39,7 +39,7 @@ In order to optimize the time spent in the examples and practical applications, 
 We strongly recommend the all-in-one scientific Python/R installer [Anaconda](https://www.anaconda.com/distribution/). All the previous software and packages can be directly and efficiently installed through this platform.
 It will be also useful the use of [Anaconda Navigator](http://docs.anaconda.com/anaconda/navigator/). 
 
-More details on installation: [here](https://github.com/carmensg/IAA-Workhop2019/blob/master/SOFTWARE_INSTALLATION)
+More details on installation: [here](https://github.com/carmensg/IAA_School2019/blob/master/SOFTWARE_INSTALLATION.md)
 
 
 **Getting the scripts**
