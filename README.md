@@ -1,4 +1,4 @@
-<img src="https://github.com/carmensg/IAA-Workhop2019/blob/master/images/IAA-CSIC_School.png" width="800" align="right">
+<img src="https://github.com/carmensg/IAA-Workhop2019/blob/master/images/IAA-CSIC_School.png" width="500" align="right">
 
 
 
