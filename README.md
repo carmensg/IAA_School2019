@@ -16,7 +16,7 @@ This repository holds the tutorials and scripts used to illustrate the theoretic
 
 ### Tutors ###
 
-* Matteo Bacchetti (INAF, Osservatorio Astronomico di Cagliari, Italy)
+* Matteo Bachetti (INAF, Osservatorio Astronomico di Cagliari, Italy)
 * Gwendolyn Eadie (University of Toronto, Canada)
 * Carmen Sánchez Gil (Universidad de Cádiz, Spain)
 * Željko Ivezić (University of Washington, USA)
