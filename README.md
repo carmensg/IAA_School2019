@@ -36,7 +36,7 @@ In order to optimize the time spent in the examples and practical applications, 
 * [python](https://www.python.org), with the following packages: [numpy,scipy, scikit-learn](https://scipy.org/install.html), [matplotlib](https://matplotlib.org/3.1.1/users/installing.html)
 * [ipython notebook](https://ipython.org/notebook.html)
 * [Jupyter Notebook](https://jupyter.org)
-* [astroML](https://www.astroml.org)
+* [astroML](https://www.astroml.org)  (scroll down to "2. Installation of astroML")
 
 We strongly recommend the all-in-one scientific Python/R installer [Anaconda](https://www.anaconda.com/distribution/). All the previous software and packages can be directly and efficiently installed through this platform.
 It will be also useful the use of [Anaconda Navigator](http://docs.anaconda.com/anaconda/navigator/). 
