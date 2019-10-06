@@ -49,7 +49,7 @@ In order to avoid problems with file paths it is advisable to clone this reposit
 
 To do so choose go to the command line and navigate to a location where you would like to work. Then type:
 
-    git clone https://github.com/carmensg/IAA-Workhop2019.git
+    git clone git@github.com:carmensg/IAA_School2019.git
 
 
 This should be enough to get you ready for the examples we will be working on. 
