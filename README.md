@@ -100,8 +100,8 @@ There are four jupyter python notebooks that we will use in this section.
 
 Please download them prior to class and run all the cells to get some slow computations done in advance. 
 
-The easiest way to clone these notebooks, and supporting files in subdirectory "figures" is 
-to clone the entire IAA_School2019 repository. 
+The easiest way to clone these notebooks, and supporting files in subdirectory "figures", is 
+to clone the entire IAA_School2019 repository (>git clone git@github.com:carmensg/IAA_School2019.git)
 
 [1. Density Estimation](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/density_estimation.ipynb)
 
