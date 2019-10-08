@@ -1,4 +1,4 @@
-<img src="https://github.com/carmensg/IAA-Workhop2019/blob/master/images/IAA-CSIC_School.png" width="900" align="left">
+<img src="https://github.com/carmensg/IAA_School2019/blob/master/images/IAA-CSIC_School.png" width="900" align="left">
 
 
 
@@ -77,18 +77,18 @@ Have fun!
 ### Day 1  - Classical and Bayesian statistical inference (Gwen Eadie) ###
 
 
-The slides used in this tutorial are available [here](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures).
+The slides used in this tutorial are available [here](https://github.com/carmensg/IAA_School2019/tree/master/lectures).
 
-[Tutorial Examples](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures)
+[Tutorial Examples](https://github.com/carmensg/IAA_School2019/tree/master/lectures)
 
 
 
 ### Day 2 - Data modeling and parameter estimation (Carmen Sánchez Gil) ###
 
 
-The slides used in this tutorial are available [here](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures).
+The slides used in this tutorial are available [here](https://github.com/carmensg/IAA_School2019/tree/master/lectures).
 
-[Tutorial Examples](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures)
+[Tutorial Examples](https://github.com/carmensg/IAA_School2019/tree/master/lectures)
 
 
 
@@ -96,15 +96,19 @@ The slides used in this tutorial are available [here](https://github.com/carmens
 
 For Day 3, you need to install [astroML](https://www.astroml.org)
 
-The slides used in this tutorial are available [here](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures).
+There are four jupyter python notebooks that we will use in this section: 
 
-[Tutorial Examples](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures)
+[Density Estimation](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/density_estimation.ipynb)
+[Dimensionality Reduction](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/dimensionality_reduction.ipynb)
+[Clustering](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/clustering.ipynb)
+[Classification](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/classification.ipynb)
+
 
 ### Day 4 - Time series analysis (Matteo Bacchetti, Javier Pascual Granado) ###
 
-The slides used in this tutorial are available [here](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures).
+The slides used in this tutorial are available [here](https://github.com/carmensg/IAA_School2019/tree/master/lectures).
 
-[Tutorial Examples](https://github.com/carmensg/IAA-Workhop2019/tree/master/lectures)
+[Tutorial Examples](https://github.com/carmensg/IAA_School2019/tree/master/lectures)
 
 
 
