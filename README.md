@@ -103,13 +103,13 @@ Please download them prior to class and run all the cells to get some slow compu
 The easiest way to clone these notebooks, and supporting files in subdirectory "figures" is 
 to clone the entire IAA_School2019 repository. 
 
-[Density Estimation](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/density_estimation.ipynb)
+[1. Density Estimation](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/density_estimation.ipynb)
 
-[Clustering](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/clustering.ipynb)
+[2. Clustering](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/clustering.ipynb)
 
-[Classification](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/classification.ipynb)
+[3. Classification](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/classification.ipynb)
 
-[Dimensionality Reduction](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/dimensionality_reduction.ipynb)
+[4. Dimensionality Reduction](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/dimensionality_reduction.ipynb)
 
 ### Day 4 - Time series analysis (Matteo Bacchetti, Javier Pascual Granado) ###
 
