@@ -96,6 +96,9 @@ The slides used in this tutorial are available [here](https://github.com/carmens
 
 For Day 3, you need to install [astroML](https://www.astroml.org)
 
+To test your installation, please download and run this 
+[testing notebook](https://github.com/carmensg/IAA_School2019/blob/master/lectures/Day3-ZeljkoIvezic/notebooks/astroMLtesting.ipynb) 
+
 There are four jupyter python notebooks that we will use in this section.
 
 Please download them prior to class and run all the cells to get some slow computations done in advance. 
