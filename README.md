@@ -114,7 +114,7 @@ to clone the entire IAA_School2019 repository (e.g. >git clone git@github.com:ca
 
 [4. Dimensionality Reduction](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day3-ZeljkoIvezic/notebooks/dimensionality_reduction.ipynb)
 
-### Day 4 - Time series analysis (Matteo Bacchetti, Javier Pascual Granado) ###
+### Day 4 - Time series analysis (Matteo Bachetti, Javier Pascual Granado) ###
 
 The slides used in this tutorial are available [here](https://github.com/carmensg/IAA_School2019/tree/master/lectures).
 
