@@ -8,6 +8,9 @@ library(tidyr)
 ######################################
 # Example III: Radio-source spectra
 ######################################
+# Original problem from : PRACTICAL STATISTICS FOR ASTRONOMERS
+# J. V. WALL & C. R. JENKINS
+# Example Page 119
 
 eps = 0.1 # 10% Gaussian noise
 # True values & Limits for the Grids
