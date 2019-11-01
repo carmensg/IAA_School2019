@@ -48,7 +48,9 @@ More details on installation: [here](https://github.com/carmensg/IAA_School2019/
 
 In order to avoid problems with file paths it is advisable to clone this repository and work within it.  
 
-To do so choose go to the command line and navigate to a location where you would like to work. Then type:
+To do so, you can directly  *clone or downlaod* this repository,
+
+or choose go to the command line and navigate to a location where you would like to work. Then type:
 
     git clone git@github.com:carmensg/IAA_School2019.git
 
