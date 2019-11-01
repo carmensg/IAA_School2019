@@ -221,7 +221,7 @@ On Windows, see in the [above](#windows).
 
 To install and run R in a Jupyter Notebook: [here](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/)
 
-See also: [here](https://www.youtube.com/watch?v=dCl4_-np5A4)
+See also how installing R Kernel Jupyter Notebook: [here](https://www.youtube.com/watch?v=dCl4_-np5A4)
 
 # IDE: PyCharm <a name="pycharm"></a>
 
