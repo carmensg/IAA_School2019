@@ -79,18 +79,18 @@ Have fun!
 ### Day 1  - Classical and Bayesian statistical inference (Gwen Eadie) ###
 
 
-The slides used in this tutorial are available [here](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day2-CarmenSánchez/).
+The slides used in this tutorial are available [here](https://github.com/carmensg/IAA_School2019/tree/master/lectures).
 
-[Tutorial Examples](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day2-CarmenSánchez/)
+[Tutorial Examples](https://github.com/carmensg/IAA_School2019/tree/master/lectures)
 
 
 
 ### Day 2 - Data modeling and parameter estimation (Carmen Sánchez Gil) ###
 
 
-The slides used in this tutorial are available [here](https://github.com/carmensg/IAA_School2019/tree/master/lectures).
+The slides used in this tutorial are available [here](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day2-CarmenSánchez/).
 
-[Tutorial Examples](https://github.com/carmensg/IAA_School2019/tree/master/lectures)
+[Tutorial Examples](https://github.com/carmensg/IAA_School2019/tree/master/lectures/Day2-CarmenSánchez/)
 
 
 
