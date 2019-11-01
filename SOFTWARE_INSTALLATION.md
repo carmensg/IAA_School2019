@@ -221,6 +221,8 @@ On Windows, see in the [above](#windows).
 
 To install and run R in a Jupyter Notebook: [here](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/)
 
+See also: [here](https://www.youtube.com/watch?v=dCl4_-np5A4)
+
 # IDE: PyCharm <a name="pycharm"></a>
 
 We strongly recommend to use pycharm, especially for the "Debugging & profiling" course. Free Community Edition: [Download PyCharm](https://www.jetbrains.com/pycharm/download) or opt for a free copy of the Professional Edition under [Student License](https://www.jetbrains.com/student/).
