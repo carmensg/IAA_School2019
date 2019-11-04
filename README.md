@@ -52,7 +52,7 @@ To do so, you can directly  *clone or downlaod* this repository,
 
 or choose go to the command line and navigate to a location where you would like to work. Then type:
 
-    git clone git@github.com:carmensg/IAA_School2019.git
+    git clone https://github.com/carmensg/IAA_School2019
 
 
 This should be enough to get you ready for the examples we will be working on. 
