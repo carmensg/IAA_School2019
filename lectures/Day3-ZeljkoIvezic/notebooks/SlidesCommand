@@ -1,0 +1,1 @@
+jupyter nbconvert density_estimation.ipynb --to slides --post serve
