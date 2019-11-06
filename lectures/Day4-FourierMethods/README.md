@@ -14,6 +14,6 @@ pip install numpy scipy astropy numba statsmodels pyregion matplotlib pandas ipy
 
 2. Main software packages used in the tutorial:
 ```
-pip install git+https://stingraysoftware/stingray.git git+https://stingraysoftware/hendrics.git git+https://nanograv/pint.git
+pip install git+https://github.com/stingraysoftware/stingray.git git+https://github.com/stingraysoftware/hendrics.git git+https://github.com/nanograv/pint.git
 ```
 
